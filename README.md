@@ -27,21 +27,6 @@ The pipeline is structured as follows:
 
 ---
 
-## 📁 Folder Structure
-
-```
-📦tokyo-olympics-analytics
- ┣ 📁data
- ┃ ┣ raw/                   # Raw Olympic data files
- ┃ ┗ transformed/           # Processed/cleaned data
- ┣ 📁notebooks
- ┃ ┗ data_transformation.ipynb
- ┣ 📄README.md
- ┗ 📄requirements.txt
-```
-
----
-
 ## 📊 Dashboards
 
 The dashboards provide the following insights:

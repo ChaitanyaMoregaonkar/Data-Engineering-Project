@@ -36,11 +36,6 @@ The pipeline is structured as follows:
  ┃ ┗ transformed/           # Processed/cleaned data
  ┣ 📁notebooks
  ┃ ┗ data_transformation.ipynb
- ┣ 📁dashboards
- ┃ ┣ power_bi_dashboard.pbix
- ┃ ┗ tableau_dashboard.twbx
- ┣ 📁pipeline
- ┃ ┗ data_factory_pipeline.json
  ┣ 📄README.md
  ┗ 📄requirements.txt
 ```

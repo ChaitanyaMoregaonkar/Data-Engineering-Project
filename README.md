@@ -1,3 +1,4 @@
 # Data-Engineering-Project
 Tokyo Olympic Data
-![image](https://github.com/user-attachments/assets/ce861eb8-ed28-47c6-93fb-f8170a326108)
+![Adobe Express - file-removebg-preview](https://github.com/user-attachments/assets/55447360-c2a8-47c9-ab05-f54ce7ad0c80)
+

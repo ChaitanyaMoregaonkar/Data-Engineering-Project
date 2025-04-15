@@ -69,7 +69,3 @@ For questions, suggestions, or collaboration:
 🔗 [LinkedIn](https://linkedin.com/in/chaitanyamoregaonkar)
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.

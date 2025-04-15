@@ -9,7 +9,7 @@ This project demonstrates a complete modern data engineering and analytics pipel
 - **Azure Data Lake Gen 2**: Storage for raw and transformed data
 - **Azure Databricks**: Data transformation using PySpark
 - **Azure Synapse Analytics**: Data modeling and advanced analytics
-- **Power BI / Looker Studio / Tableau**: Interactive dashboards
+- **Looker Studio**: Interactive dashboards
 
 ---
 
@@ -23,7 +23,7 @@ The pipeline is structured as follows:
 2. **Ingestion**: Azure Data Factory is used to ingest data into a **Raw Data Store** in Data Lake Gen 2.
 3. **Transformation**: Azure Databricks reads raw data, performs cleaning, feature engineering, and stores the transformed data back in Data Lake Gen 2.
 4. **Analytics**: Azure Synapse Analytics queries the transformed data for aggregated insights.
-5. **Visualization**: Dashboards are built using Power BI, Looker Studio, and Tableau to present the final insights.
+5. **Visualization**: Dashboards are built using Looker Studio to present the final insights.
 
 ---
 

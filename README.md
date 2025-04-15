@@ -1,5 +1,5 @@
 
-# Tokyo Olympics Data Analytics Pipeline 🌏🥇📊
+# Tokyo Olympics Data Analytics Pipeline 🌏📊
 
 This project demonstrates a complete modern data engineering and analytics pipeline using Azure services to process, analyze, and visualize Tokyo Olympics data. The objective was to ingest raw Olympic datasets, perform transformations, and generate insightful dashboards to explore medal counts, athlete performance, and country-wise statistics.
 

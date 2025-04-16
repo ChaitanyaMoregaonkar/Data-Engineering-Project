@@ -37,21 +37,6 @@ The dashboards provide the following insights:
 
 ---
 
-## 🚀 Getting Started
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/yourusername/tokyo-olympics-analytics.git
-   cd tokyo-olympics-analytics
-   ```
-
-2. Open `notebooks/data_transformation.ipynb` in Azure Databricks to process raw data.
-
-3. Deploy the pipeline in Azure Data Factory using the JSON template in `/pipeline`.
-
-4. Use Power BI or Tableau to connect to your Synapse endpoint and import visuals.
-
----
 
 ## 📌 Future Improvements
 
